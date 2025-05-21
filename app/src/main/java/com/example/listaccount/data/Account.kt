@@ -6,7 +6,7 @@ import java.time.LocalTime
 
 data class Account(
     val name: String,
-    val amount: BigDecimal
+    val balance: BigDecimal
 
 )
 
